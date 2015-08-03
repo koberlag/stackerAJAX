@@ -40,7 +40,20 @@
 	margin: 0 auto 1em auto;
 }
 
+.answerer{
+	height:128px;
+	font-size: 1.25em;
+}
+.answerer a{
+	text-decoration: none;
+}
+
 .error {
 	background-color: #F78181;
 	padding: 1em;
+}
+
+.profile-image{
+	float: left;
+	margin-right: 5%;
 }
